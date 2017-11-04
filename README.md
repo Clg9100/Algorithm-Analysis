@@ -11,3 +11,5 @@ More on Insertionsort: https://en.wikipedia.org/wiki/Insertion_sort
 More on QuickSort: https://en.wikipedia.org/wiki/Quicksort
 
 More on Counting Sort: https://en.wikipedia.org/wiki/Counting_sort
+
+Main function is located in MST.java file
